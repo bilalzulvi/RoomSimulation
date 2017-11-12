@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomSimulation", "RoomSimulation.csproj", "{30FE4397-3779-03C0-A32B-BA2A04981358}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomSimulation.Editor", "RoomSimulation.Editor.csproj", "{F84AD884-21A2-DA21-5337-6DE752013EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30FE4397-3779-03C0-A32B-BA2A04981358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FE4397-3779-03C0-A32B-BA2A04981358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FE4397-3779-03C0-A32B-BA2A04981358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FE4397-3779-03C0-A32B-BA2A04981358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F84AD884-21A2-DA21-5337-6DE752013EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84AD884-21A2-DA21-5337-6DE752013EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84AD884-21A2-DA21-5337-6DE752013EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84AD884-21A2-DA21-5337-6DE752013EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

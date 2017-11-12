@@ -1,0 +1,12 @@
+lantai satu
+
+ruang resepsionis
+koridor
+ruang meting
+toliet
+ruang manager
+
+lantai 2
+ruang  adm
+ruang  accounting
+ruang  it
